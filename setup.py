@@ -10,7 +10,7 @@ classifiers = [
  
 setup(
   name='algorsort',
-  version='1',
+  version='2',
   description='A few sorting algorithms!',
   long_description=open('README.txt').read() + '\n\n' + open('CHANGELOG.txt').read(),
   url='https://jased.xyz/',  
