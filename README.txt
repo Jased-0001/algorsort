@@ -1,7 +1,6 @@
-this file contains some of the most popular sorting algorithms:
-    bubble sort, insertion sort, selection sort, merge sort, quick sort, heap sort
-    radix sort, counting sort, bucket sort, shell sort, comb sort
-    cycle sort, cocktail sort, gnome sort, and pancake sort
+Sort lists with Algorsort
+supports number lists and word lists
+batteries not included
 
 created by:
 Jased#0001
